@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CA.DepartmentStore.Application/1.0.0": {
+        "dependencies": {
+          "CA.DepartmentStore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CA.DepartmentStore.Application.dll": {}
+        }
+      },
+      "CA.DepartmentStore.Domain/1.0.0": {
+        "runtime": {
+          "CA.DepartmentStore.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA.DepartmentStore.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CA.DepartmentStore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

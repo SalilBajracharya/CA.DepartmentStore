@@ -1,0 +1,12 @@
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\bin\Debug\net7.0\CA.DepartmentStore.Infrastructure.deps.json
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\bin\Debug\net7.0\CA.DepartmentStore.Infrastructure.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\bin\Debug\net7.0\CA.DepartmentStore.Infrastructure.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.csproj.AssemblyReference.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.AssemblyInfoInputs.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.AssemblyInfo.cs
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\refint\CA.DepartmentStore.Infrastructure.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\CA.DepartmentStore.Infrastructure.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Infrastructure\obj\Debug\net7.0\ref\CA.DepartmentStore.Infrastructure.dll

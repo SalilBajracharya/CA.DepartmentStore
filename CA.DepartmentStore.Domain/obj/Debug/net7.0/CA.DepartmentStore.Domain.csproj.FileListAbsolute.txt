@@ -1,0 +1,12 @@
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\bin\Debug\net7.0\CA.DepartmentStore.Domain.deps.json
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\bin\Debug\net7.0\CA.DepartmentStore.Domain.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\bin\Debug\net7.0\CA.DepartmentStore.Domain.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.csproj.AssemblyReference.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.AssemblyInfoInputs.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.AssemblyInfo.cs
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.csproj.CoreCompileInputs.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\refint\CA.DepartmentStore.Domain.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\CA.DepartmentStore.Domain.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Domain\obj\Debug\net7.0\ref\CA.DepartmentStore.Domain.dll

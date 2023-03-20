@@ -1,0 +1,15 @@
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\bin\Debug\net7.0\CA.DepartmentStore.Persistence.deps.json
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\bin\Debug\net7.0\CA.DepartmentStore.Persistence.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\bin\Debug\net7.0\CA.DepartmentStore.Persistence.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\bin\Debug\net7.0\CA.DepartmentStore.Domain.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\bin\Debug\net7.0\CA.DepartmentStore.Domain.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.csproj.AssemblyReference.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.AssemblyInfoInputs.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.AssemblyInfo.cs
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.csproj.CoreCompileInputs.cache
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.csproj.CopyComplete
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\refint\CA.DepartmentStore.Persistence.dll
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\CA.DepartmentStore.Persistence.pdb
+D:\.Net projects\CA.DepartmentStore\CA.DepartmentStore.Persistence\obj\Debug\net7.0\ref\CA.DepartmentStore.Persistence.dll
